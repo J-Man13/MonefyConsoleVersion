@@ -1,0 +1,29 @@
+C:\Users\cafar\Documents\Visual Studio 2017\Projects\monefyConsoleVersion\MonefyConsole2\MonefyConsole2\bin\Debug\MonefyConsole2.exe.config
+C:\Users\cafar\Documents\Visual Studio 2017\Projects\monefyConsoleVersion\MonefyConsole2\MonefyConsole2\bin\Debug\MonefyConsole2.exe
+C:\Users\cafar\Documents\Visual Studio 2017\Projects\monefyConsoleVersion\MonefyConsole2\MonefyConsole2\bin\Debug\MonefyConsole2.pdb
+C:\Users\cafar\Documents\Visual Studio 2017\Projects\monefyConsoleVersion\MonefyConsole2\MonefyConsole2\bin\Debug\CsvHelper.dll
+C:\Users\cafar\Documents\Visual Studio 2017\Projects\monefyConsoleVersion\MonefyConsole2\MonefyConsole2\bin\Debug\CsvHelper.xml
+C:\Users\cafar\Documents\Visual Studio 2017\Projects\monefyConsoleVersion\MonefyConsole2\MonefyConsole2\obj\Debug\MonefyConsole2.csprojResolveAssemblyReference.cache
+C:\Users\cafar\Documents\Visual Studio 2017\Projects\monefyConsoleVersion\MonefyConsole2\MonefyConsole2\obj\Debug\MonefyConsole2.csproj.CoreCompileInputs.cache
+C:\Users\cafar\Documents\Visual Studio 2017\Projects\monefyConsoleVersion\MonefyConsole2\MonefyConsole2\obj\Debug\MonefyConsole2.csproj.CopyComplete
+C:\Users\cafar\Documents\Visual Studio 2017\Projects\monefyConsoleVersion\MonefyConsole2\MonefyConsole2\obj\Debug\MonefyConsole2.exe
+C:\Users\cafar\Documents\Visual Studio 2017\Projects\monefyConsoleVersion\MonefyConsole2\MonefyConsole2\obj\Debug\MonefyConsole2.pdb
+C:\Users\cafar\Documents\Visual Studio 2017\Projects\MonefyConsole2\MonefyConsole2\bin\Debug\MonefyConsole2.exe.config
+C:\Users\cafar\Documents\Visual Studio 2017\Projects\MonefyConsole2\MonefyConsole2\bin\Debug\MonefyConsole2.exe
+C:\Users\cafar\Documents\Visual Studio 2017\Projects\MonefyConsole2\MonefyConsole2\bin\Debug\MonefyConsole2.pdb
+C:\Users\cafar\Documents\Visual Studio 2017\Projects\MonefyConsole2\MonefyConsole2\bin\Debug\CsvHelper.dll
+C:\Users\cafar\Documents\Visual Studio 2017\Projects\MonefyConsole2\MonefyConsole2\bin\Debug\CsvHelper.xml
+C:\Users\cafar\Documents\Visual Studio 2017\Projects\MonefyConsole2\MonefyConsole2\obj\Debug\MonefyConsole2.csprojResolveAssemblyReference.cache
+C:\Users\cafar\Documents\Visual Studio 2017\Projects\MonefyConsole2\MonefyConsole2\obj\Debug\MonefyConsole2.csproj.CoreCompileInputs.cache
+C:\Users\cafar\Documents\Visual Studio 2017\Projects\MonefyConsole2\MonefyConsole2\obj\Debug\MonefyConsole2.csproj.CopyComplete
+C:\Users\cafar\Documents\Visual Studio 2017\Projects\MonefyConsole2\MonefyConsole2\obj\Debug\MonefyConsole2.exe
+C:\Users\cafar\Documents\Visual Studio 2017\Projects\MonefyConsole2\MonefyConsole2\obj\Debug\MonefyConsole2.pdb
+C:\Users\jafar.j\source\repos\MonefyConsole2\MonefyConsole2\bin\Debug\MonefyConsole2.exe.config
+C:\Users\jafar.j\source\repos\MonefyConsole2\MonefyConsole2\bin\Debug\MonefyConsole2.exe
+C:\Users\jafar.j\source\repos\MonefyConsole2\MonefyConsole2\bin\Debug\MonefyConsole2.pdb
+C:\Users\jafar.j\source\repos\MonefyConsole2\MonefyConsole2\bin\Debug\CsvHelper.dll
+C:\Users\jafar.j\source\repos\MonefyConsole2\MonefyConsole2\bin\Debug\CsvHelper.xml
+C:\Users\jafar.j\source\repos\MonefyConsole2\MonefyConsole2\obj\Debug\MonefyConsole2.csprojResolveAssemblyReference.cache
+C:\Users\jafar.j\source\repos\MonefyConsole2\MonefyConsole2\obj\Debug\MonefyConsole2.csproj.CoreCompileInputs.cache
+C:\Users\jafar.j\source\repos\MonefyConsole2\MonefyConsole2\obj\Debug\MonefyConsole2.exe
+C:\Users\jafar.j\source\repos\MonefyConsole2\MonefyConsole2\obj\Debug\MonefyConsole2.pdb
