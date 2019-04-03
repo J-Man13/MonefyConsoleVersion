@@ -12,6 +12,7 @@ namespace ConsoleFrontEnd
 
         public static void Run()
         {
+            Console.OutputEncoding = Encoding.UTF8;
             FirstMenu firstMenu = FirstMenu.GetInstance();
             firstMenu.Run();            
         }
